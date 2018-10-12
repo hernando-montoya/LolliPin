@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pin_code_forgot_text">¿Olvidó su pin?</string>
+    <string name="pin_code_step_disable">Desactivar pin de %d digitos</string>
+    <string name="pin_code_step_create">Crear un pin de %d digitos</string>
+    <string name="pin_code_step_change">Ingrese su pin de %d digitos actual</string>
+    <string name="pin_code_step_unlock">Ingrese su pin de %d digitos</string>
+    <string name="pin_code_step_enable_confirm">Confirme su pin de %d digitos</string>
+
+    <string name="pin_code_fingerprint_text">Fingerprint</string>
+    <string name="pin_code_fingerprint_success">Fingerprint reconocido</string>
+    <string name="pin_code_fingerprint_not_recognized">Fingerprint no reconocido. Intente de nuevo</string>
+</resources>
